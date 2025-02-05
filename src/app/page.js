@@ -1,4 +1,4 @@
-import Card from '@/components/Cards';
+import Card from '../../components/Cards';
 import Image from 'next/image';
 
 export default async function Home() {
@@ -14,4 +14,3 @@ export default async function Home() {
         </main>
     );
 }
-GDSADAS
